@@ -40,6 +40,8 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/75236145/231505493-95424922-a8bb-48ea-a38e-a5ffa71cabe7.png)
+
 ![image](https://user-images.githubusercontent.com/75236145/231505329-84024ce1-6d90-4039-a187-10433d7116d8.png)
 
 
